@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-hello how are you2 repeat
-
-=======
-goog afternoon
->>>>>>> feature
+helo Yusuf
