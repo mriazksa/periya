@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 I am doing well
 where are you
+=======
+hi how are you
+i am fine
+>>>>>>> test2
